@@ -1,0 +1,10 @@
+C:\Users\Ucenik\source\repos\botun2\botun2\bin\Debug\botun2.exe.config
+C:\Users\Ucenik\source\repos\botun2\botun2\bin\Debug\botun2.exe
+C:\Users\Ucenik\source\repos\botun2\botun2\bin\Debug\botun2.pdb
+C:\Users\Ucenik\source\repos\botun2\botun2\obj\Debug\botun2.csproj.AssemblyReference.cache
+C:\Users\Ucenik\source\repos\botun2\botun2\obj\Debug\botun2.Form1.resources
+C:\Users\Ucenik\source\repos\botun2\botun2\obj\Debug\botun2.Properties.Resources.resources
+C:\Users\Ucenik\source\repos\botun2\botun2\obj\Debug\botun2.csproj.GenerateResource.cache
+C:\Users\Ucenik\source\repos\botun2\botun2\obj\Debug\botun2.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\source\repos\botun2\botun2\obj\Debug\botun2.exe
+C:\Users\Ucenik\source\repos\botun2\botun2\obj\Debug\botun2.pdb
